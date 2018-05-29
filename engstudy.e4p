@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project engstudy -->
+<!-- Saved: 2018-05-29, 19:35:17 -->
+<!-- Copyright (C) 2018 ,  -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>92442ea3242d80de83d4c6c395ff17c9129001bb</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>PyQt5</ProjectType>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Eol index="0"/>
+  <Sources>
+    <Source>__init__.py</Source>
+    <Source>calculate.py</Source>
+    <Source>chainTable.py</Source>
+    <Source>engstudy/engshow.py</Source>
+    <Source>flyplay.py</Source>
+    <Source>flyplay2.py</Source>
+    <Source>gameRole.py</Source>
+    <Source>getnext.py</Source>
+    <Source>hangman/hangman.py</Source>
+    <Source>hangman/hangman_form.py</Source>
+    <Source>hangman/onlinedict.py</Source>
+    <Source>hangman/ps3_hangman.py</Source>
+    <Source>hangman/tornado/__init__.py</Source>
+    <Source>hangman/tornado/auth.py</Source>
+    <Source>hangman/tornado/autoreload.py</Source>
+    <Source>hangman/tornado/concurrent.py</Source>
+    <Source>hangman/tornado/curl_httpclient.py</Source>
+    <Source>hangman/tornado/escape.py</Source>
+    <Source>hangman/tornado/gen.py</Source>
+    <Source>hangman/tornado/http1connection.py</Source>
+    <Source>hangman/tornado/httpclient.py</Source>
+    <Source>hangman/tornado/httpserver.py</Source>
+    <Source>hangman/tornado/httputil.py</Source>
+    <Source>hangman/tornado/ioloop.py</Source>
+    <Source>hangman/tornado/iostream.py</Source>
+    <Source>hangman/tornado/locale.py</Source>
+    <Source>hangman/tornado/log.py</Source>
+    <Source>hangman/tornado/netutil.py</Source>
+    <Source>hangman/tornado/options.py</Source>
+    <Source>hangman/tornado/platform/__init__.py</Source>
+    <Source>hangman/tornado/platform/asyncio.py</Source>
+    <Source>hangman/tornado/platform/auto.py</Source>
+    <Source>hangman/tornado/platform/caresresolver.py</Source>
+    <Source>hangman/tornado/platform/common.py</Source>
+    <Source>hangman/tornado/platform/epoll.py</Source>
+    <Source>hangman/tornado/platform/interface.py</Source>
+    <Source>hangman/tornado/platform/kqueue.py</Source>
+    <Source>hangman/tornado/platform/posix.py</Source>
+    <Source>hangman/tornado/platform/select.py</Source>
+    <Source>hangman/tornado/platform/twisted.py</Source>
+    <Source>hangman/tornado/platform/windows.py</Source>
+    <Source>hangman/tornado/process.py</Source>
+    <Source>hangman/tornado/simple_httpclient.py</Source>
+    <Source>hangman/tornado/stack_context.py</Source>
+    <Source>hangman/tornado/tcpclient.py</Source>
+    <Source>hangman/tornado/tcpserver.py</Source>
+    <Source>hangman/tornado/template.py</Source>
+    <Source>hangman/tornado/test/__init__.py</Source>
+    <Source>hangman/tornado/test/__main__.py</Source>
+    <Source>hangman/tornado/test/auth_test.py</Source>
+    <Source>hangman/tornado/test/concurrent_test.py</Source>
+    <Source>hangman/tornado/test/curl_httpclient_test.py</Source>
+    <Source>hangman/tornado/test/escape_test.py</Source>
+    <Source>hangman/tornado/test/gen_test.py</Source>
+    <Source>hangman/tornado/test/gettext_translations/extract_me.py</Source>
+    <Source>hangman/tornado/test/httpclient_test.py</Source>
+    <Source>hangman/tornado/test/httpserver_test.py</Source>
+    <Source>hangman/tornado/test/httputil_test.py</Source>
+    <Source>hangman/tornado/test/import_test.py</Source>
+    <Source>hangman/tornado/test/ioloop_test.py</Source>
+    <Source>hangman/tornado/test/iostream_test.py</Source>
+    <Source>hangman/tornado/test/locale_test.py</Source>
+    <Source>hangman/tornado/test/log_test.py</Source>
+    <Source>hangman/tornado/test/netutil_test.py</Source>
+    <Source>hangman/tornado/test/options_test.py</Source>
+    <Source>hangman/tornado/test/process_test.py</Source>
+    <Source>hangman/tornado/test/resolve_test_helper.py</Source>
+    <Source>hangman/tornado/test/runtests.py</Source>
+    <Source>hangman/tornado/test/simple_httpclient_test.py</Source>
+    <Source>hangman/tornado/test/stack_context_test.py</Source>
+    <Source>hangman/tornado/test/tcpclient_test.py</Source>
+    <Source>hangman/tornado/test/template_test.py</Source>
+    <Source>hangman/tornado/test/testing_test.py</Source>
+    <Source>hangman/tornado/test/twisted_test.py</Source>
+    <Source>hangman/tornado/test/util.py</Source>
+    <Source>hangman/tornado/test/util_test.py</Source>
+    <Source>hangman/tornado/test/web_test.py</Source>
+    <Source>hangman/tornado/test/websocket_test.py</Source>
+    <Source>hangman/tornado/test/wsgi_test.py</Source>
+    <Source>hangman/tornado/testing.py</Source>
+    <Source>hangman/tornado/util.py</Source>
+    <Source>hangman/tornado/web.py</Source>
+    <Source>hangman/tornado/websocket.py</Source>
+    <Source>hangman/tornado/wsgi.py</Source>
+    <Source>helloworld.py</Source>
+    <Source>mp3test.py</Source>
+    <Source>mplayer.py</Source>
+    <Source>mpp.py</Source>
+    <Source>musicplay.py</Source>
+    <Source>mystack.py</Source>
+    <Source>pac.py</Source>
+    <Source>pg1.py</Source>
+    <Source>pg2.py</Source>
+    <Source>test.py</Source>
+    <Source>textedit1.py</Source>
+    <Source>threedoor.py</Source>
+    <Source>timer_1.py</Source>
+    <Source>timer_2.py</Source>
+    <Source>untitled2.py</Source>
+  </Sources>
+  <Forms/>
+  <Translations/>
+  <Resources/>
+  <Interfaces/>
+  <Others>
+    <Other>class - 副本.txt</Other>
+    <Other>class.txt</Other>
+    <Other>hangman/tornado/test/README</Other>
+    <Other>hangman/tornado/test/static/robots.txt</Other>
+    <Other>hangman/words.txt</Other>
+    <Other>hangman/words_4.txt</Other>
+    <Other>hangman/words_6.txt</Other>
+  </Others>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.e4p" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.md" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.rst" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.txt" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="README" type="OTHERS"/>
+    <FiletypeAssociation pattern="README.*" type="OTHERS"/>
+  </FiletypeAssociations>
+</Project>
